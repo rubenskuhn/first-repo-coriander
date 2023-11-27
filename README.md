@@ -25,8 +25,4 @@ https://www.vidaemduasrodas.com
 ###### Sixth level [###...]
 
 ##
-![Ramones Live Show](https://sourcepoint.theguardian.com/index.html?message_id=882219&consentUUID=null&requestUUID=064f9a48-2ef4-495c-b1e7-f99067f50c0c&preload_message=true&hasCsp=true&version=v1)
-
-
-
-
+![Ramones Live Show](https://i.guim.co.uk/img/media/fb772f74f0c57674798a626af08160d618d38a07/0_44_1407_844/master/1407.jpg?width=620&dpr=2&s=none)
