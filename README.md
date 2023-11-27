@@ -26,3 +26,14 @@ https://www.vidaemduasrodas.com
 
 ## My Image
 ![Reaction Time](Screenshot 2023-08-27 at 21.35.55.png)
+
+## Block code
+
+```js
+let cohort = "Coriander"
+let students = 17
+```
+
+
+
+
